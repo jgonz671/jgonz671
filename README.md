@@ -1,6 +1,6 @@
 - Hi, I’m @jgonz671 or you can just call me Julian. 
 - I’m a third year computer engineering undergraduate at UCR. 
-- I aspire to break into the tech industry. 
+- I aspire to break into the tech industry with my diverse skillset.  
 - I love learning and I'm adaptable. 
 - Reach me @julian.eg2003@gmail.com or at my Linkedin https://www.linkedin.com/in/julian-gonzalez-b49665203/
 
