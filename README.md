@@ -1,4 +1,4 @@
-- Hi, I’m @jgonz671 or you can just call me Julian. 
+- Hi, I’m Julian. 
 - I’m a third year computer engineering undergraduate at UCR. 
 - Reach me @julian.eg2003@gmail.com or at my Linkedin https://www.linkedin.com/in/julian-gonzalez-b49665203/
 
