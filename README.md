@@ -1,5 +1,4 @@
-- Hi, I’m Julian. 
-- I’m a third year computer engineering undergraduate at UCR. 
+- Hey, I'm Julian, a software engineer at Pennymac Loan Services!
 - Reach me @julian.eg2003@gmail.com or at my Linkedin https://www.linkedin.com/in/julian-gonzalez-b49665203/
 
 <!---
